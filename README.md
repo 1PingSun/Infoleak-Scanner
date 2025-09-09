@@ -1,5 +1,7 @@
 # Infoleak-Scanner
 
+> Do not use it for illegal hacking.
+
 This is a script that can scan the phpinfo and git leak with url list.
 
 ## Usage
